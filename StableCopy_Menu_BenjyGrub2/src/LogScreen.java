@@ -24,7 +24,7 @@ public class LogScreen {
 	boolean mainOpen = false;
 	boolean statsOpen=false;
 	
-	
+	//
 	public LogScreen()
 	{
 		this.burger_menu = new MainMenu(this);
